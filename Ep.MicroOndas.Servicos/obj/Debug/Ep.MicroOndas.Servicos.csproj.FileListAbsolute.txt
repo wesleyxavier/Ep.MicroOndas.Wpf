@@ -1,0 +1,11 @@
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\bin\Debug\Ep.MicroOndas.Servicos.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\bin\Debug\Ep.MicroOndas.Servicos.pdb
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\bin\Debug\Ep.MicroOndas.Dominio.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\bin\Debug\Ep.MicroOndas.Regras.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\bin\Debug\Ep.MicroOndas.Dominio.pdb
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\bin\Debug\Ep.MicroOndas.Regras.pdb
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\obj\Debug\Ep.MicroOndas.Servicos.csprojAssemblyReference.cache
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\obj\Debug\Ep.MicroOndas.Servicos.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\obj\Debug\Ep.MicroOndas.Servicos.csproj.CopyComplete
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\obj\Debug\Ep.MicroOndas.Servicos.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Servicos\obj\Debug\Ep.MicroOndas.Servicos.pdb

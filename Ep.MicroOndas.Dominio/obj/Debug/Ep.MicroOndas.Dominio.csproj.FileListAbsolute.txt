@@ -1,0 +1,5 @@
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Dominio\bin\Debug\Ep.MicroOndas.Dominio.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Dominio\bin\Debug\Ep.MicroOndas.Dominio.pdb
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Dominio\obj\Debug\Ep.MicroOndas.Dominio.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Dominio\obj\Debug\Ep.MicroOndas.Dominio.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Dominio\obj\Debug\Ep.MicroOndas.Dominio.pdb

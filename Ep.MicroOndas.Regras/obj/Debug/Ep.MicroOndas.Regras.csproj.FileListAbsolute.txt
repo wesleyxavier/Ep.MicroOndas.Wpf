@@ -1,0 +1,9 @@
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\bin\Debug\Ep.MicroOndas.Regras.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\bin\Debug\Ep.MicroOndas.Regras.pdb
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\bin\Debug\Ep.MicroOndas.Dominio.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\bin\Debug\Ep.MicroOndas.Dominio.pdb
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\obj\Debug\Ep.MicroOndas.Regras.csprojAssemblyReference.cache
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\obj\Debug\Ep.MicroOndas.Regras.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\obj\Debug\Ep.MicroOndas.Regras.csproj.CopyComplete
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\obj\Debug\Ep.MicroOndas.Regras.dll
+E:\Desenvolvimento\Benner\Ep.MicroOndas.Wpf\Ep.MicroOndas.Regras\obj\Debug\Ep.MicroOndas.Regras.pdb
