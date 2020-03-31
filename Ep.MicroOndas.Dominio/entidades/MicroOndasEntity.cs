@@ -29,7 +29,7 @@ namespace Ep.MicroOndas.Dominio.entidades
         public static MicroOndasEntity InstanciaInicioRapido =>
          new MicroOndasEntity()
          {
-             Tempo = "3",
+             Tempo = "30",
              Potencia = "8"
          };
 
